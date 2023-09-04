@@ -1,0 +1,6 @@
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/sas229/json.git
+[submodule "external/pico-onewire"]
+	path = external/pico-onewire
+	url = https://github.com/adamboardman/pico-onewire.git
